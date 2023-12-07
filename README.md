@@ -10,7 +10,15 @@ This project uses data gathered from the Annual Survey of Refugees. This survey 
 
 #### Access
 
-Downloading the data requires an OpenICPSR account. Links to the Surveys from 2016 to 2020 can be found [here](https://www.openicpsr.org/openicpsr/search/studies?start=0&ARCHIVE=openicpsr&sort=score%20desc%2CDATEUPDATED%20desc&rows=25&q=annual%20survey%20of%20refugees).
+Downloading the data requires an OpenICPSR account. Links to the Surveys from 2016 to 2020 can be found here:
+
+- [2016](https://www.openicpsr.org/openicpsr/project/104642/version/V4/view)
+- [2017](https://www.openicpsr.org/openicpsr/project/117581/version/V1/view)
+- [2018](https://www.openicpsr.org/openicpsr/project/131025/version/V1/view)
+- [2019](https://www.openicpsr.org/openicpsr/project/168641/version/V2/view)
+
+#### Instructions
+Click on "Download this Project" at the bottom of each link and download the archives into the `Data/downloads` folder. Then run `./Scripts/extract_data.sh`
 
 ### Citations
 
