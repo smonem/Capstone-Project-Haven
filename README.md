@@ -20,6 +20,9 @@ Downloading the data requires an OpenICPSR account. Links to the Surveys from 20
 #### Instructions
 Click on "Download this Project" at the bottom of each link and download the archives into the `Data/downloads` folder. Then run `./Scripts/extract_data.sh`
 
+### How to Run Project
+Create a Python virtual environment and install packages from `requirements.txt`. Then run `./Scripts/run_project.sh`. This script also extracts files from the OpenICPSR archives if not done so already.
+
 ### Citations
 
 We acknowledge that the original collector of the data, ICPSR, and the relevant funding agency bear no responsibility for use of the data or for interpretations or inferences based upon such uses.
