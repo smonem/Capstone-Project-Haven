@@ -27,8 +27,6 @@ Create a Python virtual environment and install packages from `requirements.txt`
 
 We acknowledge that the original collector of the data, ICPSR, and the relevant funding agency bear no responsibility for use of the data or for interpretations or inferences based upon such uses.
 
-Urban Institute. 2020 Annual Survey of Refugees. Ann Arbor, MI: Inter-university Consortium for Political and Social Research [distributor], 2023-11-27. https://doi.org/10.3886/E195403V1
-
 Urban Institute. 2019 Annual Survey of Refugees. Ann Arbor, MI: Inter-university Consortium for Political and Social Research [distributor], 2022-04-27. https://doi.org/10.3886/E168641V2
 
 Urban Institute. 2018 Annual Survey of Refugees. Ann Arbor, MI: Inter-university Consortium for Political and Social Research [distributor], 2021-01-29. https://doi.org/10.3886/E131025V1
